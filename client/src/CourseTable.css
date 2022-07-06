@@ -1,0 +1,32 @@
+.red{
+    color: red;
+}
+.green{
+    color:green
+}
+.grey{
+  color:grey
+}
+.al {
+    position: sticky;
+    top:5%;
+    height: 48px;
+    border-radius: 48px;
+    box-shadow: 0 6px 10px 0 #666;
+    transition: all 0.1s ease-in-out;
+   text-align: center; 
+   z-index: 1;
+
+    
+  }
+  .popover{
+    border-color: black;
+    color: black;
+    box-shadow: 0 6px 10px 0 #666;
+    background-color: #f5f5f5;
+
+    
+  }
+  .back{
+    background-color: hsla(0, 100%, 50%, 0.738);
+  }

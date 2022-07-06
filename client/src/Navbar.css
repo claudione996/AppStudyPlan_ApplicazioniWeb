@@ -1,0 +1,29 @@
+#navbar {
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 5px 5px 0 rgb(234, 234, 234);
+}
+
+#nav-home {
+  text-decoration: none;
+}
+
+#navbar-brand {
+  font-family: "Boogaloo", cursive;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: xx-large;
+  color: #1e88e5;
+}
+
+#nav-username {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 500;
+}
+
+#btn-login {
+  font-family: "IBM Plex Sans", sans-serif;
+  padding-right: 1rem;
+  border-radius: 7px;
+}
+
